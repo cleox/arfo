@@ -11,10 +11,6 @@ url('arfo/Noor_e_Quran.ttf') format('truetype');
 font-weight: normal;
 }
 
-.font-amiri {
-    font-family: Amiri;
-}
-
 h1 {
     text-align: center;
     margin: 20px 0;
