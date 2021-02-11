@@ -4,6 +4,7 @@
 url('fo/me_quranR3HOQ.otf') format('truetype'),
 url('fo/me_quranR3HOQ.woff') format('woff'),
 url('fo/me_quranR3HOQ-Bold.woff2') format('woff2');
+font-weight: bold;
 }
 
 @font-face {
