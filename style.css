@@ -4,7 +4,8 @@
 }
 
 @font-face {
-    font-family: 'Noor_e_Quran';    
+    font-family: 'Noor_e_Quran';
+    
     src: url('arfo/Noor_e_Quran.woff') format('woff'),
 url('arfo/Noor_e_Quran.otf') format('opentype'),
 url('arfo/Noor_e_Quran.ttf') format('truetype');
